@@ -38,5 +38,5 @@ How to create landing page a bit close to perfection
 ## Author
 
 - Website - [Marvelous](https://www.your-site.com)
-- Frontend Mentor - [@Marvel123g](https://www.frontendmentor.io/profile/yourusername)
-- instagram - [@ma.rvellous971](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
+- instagram - [@ma.rvellous971]
