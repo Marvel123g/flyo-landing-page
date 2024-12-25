@@ -246,6 +246,11 @@ footer{
     .container{
         width: 90%;
     }
+    nav{
+        display:flex;
+        justify-content: space-between;
+        margin-bottom:40px;
+    }
     nav img{
         width: 30%;
     }
